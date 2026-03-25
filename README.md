@@ -83,6 +83,40 @@ This is a research-oriented demonstration of optimization methods in energy syst
 
 ---
 
+## 🎯 Research Directions
+
+This project is aligned with research topics including:
+
+* Autonomous Driving
+* Robotics & Embodied Intelligence
+* Optimal Control & MPC
+* Intelligent Transportation Systems
+* Energy-aware AI systems
+
+---
+
+## 👤 Author
+
+**Yuanzhe (Nikola) Chen**
+
+PhD Applicant (Fall 2027, United States preferred) | Autonomous Driving & Robotics | Control, Planning & Energy Systems | M.Eng (EE) @ UNSW
+
+Research interests:
+
+* Autonomous Driving & Robotics
+* Control Theory & Optimal Control
+* EV Energy Systems & Optimization
+
+---
+
+## 📬 Contact
+
+Feel free to reach out for collaboration or discussion:
+
+🔗 LinkedIn: www.linkedin.com/in/yuanzhe-chen-6b2158351
+
+---
+
 ## License
 
 MIT License
